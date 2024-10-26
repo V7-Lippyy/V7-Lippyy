@@ -20,5 +20,4 @@ He/Him
 ### ⚡ Fun Fact
 My code is composed of 70% GPT assistance and 30% my own prompt skills! XD (but seriously, **this isn't a joke.**)
 
-### 🌐 Let's Connect!
-Feel free to reach out if you want to discuss web development, design, or collaborate on a project. I'm always open to new ideas and interesting conversations.
+### Thank you for reading this far! 😂 XD
