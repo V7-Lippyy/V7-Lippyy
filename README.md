@@ -2,22 +2,23 @@
 
 ## 👋 Hi, I’m @Lippyy13!
 
-### 👀 About Me
-I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Negeri Makassar. I'm passionate about web development, design, and editing. I have a keen interest in HTML, CSS, JavaScript, and Python.
+### 👀 About Me  
+I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Negeri Makassar. I'm passionate about web development, design, and editing. I have a keen interest in **JavaScript**, **PHP**, and **Kotlin**.
 
-### 🌱 Currently Learning
-I'm currently diving deep into Python and expanding my knowledge in web development. My goal is to become proficient in full-stack development and contribute to exciting projects. I am also learning C# for campus project needs.
+### 🌱 Currently Learning  
+I'm currently diving deep into **Kotlin** for Android mobile app development, while also sharpening my skills in **JavaScript** and **PHP** to become a more well-rounded full-stack developer.  
+I’m also learning **C#** for campus project needs.
 
-### 📫 How to Reach Me
-- **Email**: alifqadry@gmail.com
-- **LinkedIn**: (https://www.linkedin.com/in/muhalifqadri/))
-- **Instagram**: (https://www.instagram.com/liip.qdry)
-- **Portfolio**: (https://lippyy.my.id/)
+### 📫 How to Reach Me  
+- **Email**: alifqadry@gmail.com  
+- **LinkedIn**: [https://www.linkedin.com/in/muhalifqadri/](https://www.linkedin.com/in/muhalifqadri/)  
+- **Instagram**: [https://www.instagram.com/liip.qdry](https://www.instagram.com/liip.qdry)  
+- **Portfolio**: [https://lippyy.my.id/](https://lippyy.my.id/)
 
-### 😄 Pronouns
+### 😄 Pronouns  
 He/Him
 
-### ⚡ Fun Fact
+### ⚡ Fun Fact  
 My code is composed of 70% GPT assistance and 30% my own prompt skills! XD (but seriously, **this isn't a joke.**)
 
 ### Thank you for reading this far! 😂 XD
