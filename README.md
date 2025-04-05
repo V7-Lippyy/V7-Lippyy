@@ -3,7 +3,7 @@
 ## 👋 Hi, I’m @Lippyy13!
 
 ### 👀 About Me  
-I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Negeri Makassar. I'm passionate about web development, design, and editing. I have a keen interest in **JavaScript**, **PHP**, and **Kotlin**.
+I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Negeri Makassar. I'm passionate about designing, editing, web and mobile app development also. I have a keen interest in **JavaScript**, **PHP**, and **Kotlin**.
 
 ### 🌱 Currently Learning  
 I'm currently diving deep into **Kotlin** for Android mobile app development, while also sharpening my skills in **JavaScript** and **PHP** to become a more well-rounded full-stack developer.  
