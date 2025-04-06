@@ -1,5 +1,11 @@
 # 💫 About Me:
-I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Negeri Makassar. I'm passionate about designing, editing, web and mobile app development also. I have a keen interest in JavaScript, PHP, and Kotlin<br>🌱 I’m currently learning **Kotlin for Android mobile app development, while also sharpening my skills in JavaScript and PHP to become a more well-rounded full-stack developer. I’m also learning C# for campus project needs.<br>⚡ Fun fact **My code is composed of 70% GPT assistance and 30% my own prompt skills! XD
+I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Negeri Makassar ⚡
+I'm passionate about designing, editing, and developing web & mobile apps 🖌️💻
+I have a keen interest in JavaScript, PHP, and Kotlin 🌐📱
+
+🌱 I’m currently learning Kotlin for Android mobile app development, while also sharpening my skills in JavaScript and PHP to become a more well-rounded full-stack developer. I’m also exploring C# for campus project needs 👨‍💻🎓
+
+⚡ Fun fact: My code is composed of 70% GPT assistance and 30% my own prompt skills! 😆🤖💡
 
 
 ## 🌐 Socials:
